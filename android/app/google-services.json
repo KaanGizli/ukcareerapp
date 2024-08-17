@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "135730240936",
+    "project_id": "ukcareerapp",
+    "storage_bucket": "ukcareerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135730240936:android:050a3871a710890f7c119d",
+        "android_client_info": {
+          "package_name": "com.example.uk_untitled_v0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135730240936-hv72i4fu91ais0l40cmkqnvfgp42h9t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxeDISuhi0hZHtXmYWrcOxdyzmXOlDdIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135730240936-hv72i4fu91ais0l40cmkqnvfgp42h9t7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135730240936-ofl9denv9mmgbpjt8m87044fpu0ouegr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ukUntitledV0"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

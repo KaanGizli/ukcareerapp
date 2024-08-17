@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ukcareerapp</string>
+    <string name="facebook_app_id">1500239847272187</string>
+    <string name="fb_login_protocol_scheme">fb778c33ff10b333ef1bf087b6bcb22afb</string>
+    <string name="facebook_client_token">1500239847272187|UBvWZor7ONi5aKJ6rd-0yS5ti9A</string>
+
+
+</resources>
